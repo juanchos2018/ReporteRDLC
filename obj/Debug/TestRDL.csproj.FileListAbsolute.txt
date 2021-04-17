@@ -1,0 +1,288 @@
+C:\Users\PC\source\repos\TestRDL\bin\Debug\TestRDL.exe
+C:\Users\PC\source\repos\TestRDL\bin\Debug\TestRDL.pdb
+C:\Users\PC\source\repos\TestRDL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\PC\source\repos\TestRDL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\PC\source\repos\TestRDL\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\PC\source\repos\TestRDL\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\PC\source\repos\TestRDL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\TestRDL\obj\Debug\TestRDL.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\TestRDL\obj\Debug\TestRDL.Form1.resources
+C:\Users\PC\source\repos\TestRDL\obj\Debug\TestRDL.Properties.Resources.resources
+C:\Users\PC\source\repos\TestRDL\obj\Debug\TestRDL.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TestRDL\obj\Debug\TestRDL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TestRDL\obj\Debug\TestRDL.csproj.CopyComplete
+C:\Users\PC\source\repos\TestRDL\obj\Debug\TestRDL.exe
+C:\Users\PC\source\repos\TestRDL\obj\Debug\TestRDL.pdb
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\TestRDL.exe
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\TestRDL.pdb
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.csproj.AssemblyReference.cache
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.Form1.resources
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.Properties.Resources.resources
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.csproj.GenerateResource.cache
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.csproj.CoreCompileInputs.cache
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.csproj.CopyComplete
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.exe
+C:\Users\USER.V\Documents\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.pdb
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\TestRDL.exe
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\TestRDL.pdb
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.Design.DLL
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\EnvDTE.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\EnvDTE80.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\stdole.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\EnvDTE.xml
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\EnvDTE80.xml
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TRABAJOS-AVEO\CreacionRDL-master\obj\Debug\TestRDL.csprojAssemblyReference.cache
+E:\TRABAJOS-AVEO\CreacionRDL-master\obj\Debug\TestRDL.Form1.resources
+E:\TRABAJOS-AVEO\CreacionRDL-master\obj\Debug\TestRDL.Properties.Resources.resources
+E:\TRABAJOS-AVEO\CreacionRDL-master\obj\Debug\TestRDL.csproj.GenerateResource.cache
+E:\TRABAJOS-AVEO\CreacionRDL-master\obj\Debug\TestRDL.csproj.CoreCompileInputs.cache
+E:\TRABAJOS-AVEO\CreacionRDL-master\obj\Debug\TestRDL.csproj.CopyComplete
+E:\TRABAJOS-AVEO\CreacionRDL-master\obj\Debug\TestRDL.exe
+E:\TRABAJOS-AVEO\CreacionRDL-master\obj\Debug\TestRDL.pdb
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\TestRDL.exe
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\TestRDL.pdb
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\EnvDTE.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\EnvDTE80.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\stdole.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\EnvDTE.xml
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\EnvDTE80.xml
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.csprojAssemblyReference.cache
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.Form1.resources
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.Properties.Resources.resources
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.csproj.GenerateResource.cache
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.csproj.CoreCompileInputs.cache
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.csproj.CopyComplete
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.exe
+D:\Disco local\disco\Trabajo\CreacionRDL-master\CreacionRDL-master\obj\Debug\TestRDL.pdb
