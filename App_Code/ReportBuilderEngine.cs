@@ -229,7 +229,7 @@ public static class ReportEngine
           <Top>0.9cm</Top> 
           <Left>2cm</Left> 
           <Height>0.6cm</Height> 
-          <Width>17.5cm</Width> 
+          <Width>"+ TamanoTitulo.ToString()+"cm" +@" </Width> 
           <ZIndex>2</ZIndex> 
           <Style> 
             <Border> 
