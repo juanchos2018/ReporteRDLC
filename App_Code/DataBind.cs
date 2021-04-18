@@ -94,9 +94,10 @@ namespace SiscorpSharp.App_Code
             ReportItems reportHeaderItems = new ReportItems();
             
             ReportTextBoxControl[] headerTxt = new ReportTextBoxControl[3];
-            headerTxt[0] = new ReportTextBoxControl() { Name = "txtReportTitle", ValueOrExpression = new string[] { "Razon Social: " + Empresa } };
-            headerTxt[1] = new ReportTextBoxControl() { Name = "txtReportTitle1", ValueOrExpression = new string[] { "NOMBRE DEL REPORTE:" + ReportTitle } };
-            headerTxt[2] = new ReportTextBoxControl() { Name = "txtReportTitle2", ValueOrExpression = new string[] { "Ruc: " + Ruc } };
+            headerTxt[0] = new ReportTextBoxControl() { Name = "txtReportTitle", ValueOrExpression = new string[] { "NOMBRE DEL REPORTE: 2" + ReportTitle  } };       
+           
+            headerTxt[1] = new ReportTextBoxControl() { Name = "txtReportTitle2", ValueOrExpression = new string[] { "Razon Social: 0 " + Empresa } };
+            headerTxt[2] = new ReportTextBoxControl() { Name = "txtReportTitle1", ValueOrExpression = new string[] { "Ruc: 1 " + Ruc } };
             reportHeaderItems.TextBoxControls = headerTxt;
             reportHeader.ReportControlItems = reportHeaderItems;
             reportBuilder.Page.ReportHeader = reportHeader;

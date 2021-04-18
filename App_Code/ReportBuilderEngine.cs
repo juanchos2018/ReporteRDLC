@@ -37,8 +37,7 @@ public static class ReportEngine
                 for (int j = 0; j < _TablesCount; j++)
                 {
                     DataTable dt = ds.Tables[j];
-                    ReportColumns[] columns = new ReportColumns[dt.Columns.Count];                  
-                  
+                    ReportColumns[] columns = new ReportColumns[dt.Columns.Count]; 
                     ReportDimensions ColumnPadding = new ReportDimensions();
                     ColumnPadding.Default = 2;
                     for (int i = 0; i < dt.Columns.Count; i++)
@@ -135,22 +134,110 @@ public static class ReportEngine
                           <PrintOnLastPage>" + reportHeader.PrintOnLastPage.ToString().ToLower() + @"</PrintOnLastPage> 
                           <ReportItems>";
         ReportTextBoxControl[] headerTxt = reportBuilder.Page.ReportHeader.ReportControlItems.TextBoxControls;
+        string left = "1cm";
+        var titulo = headerTxt[0].ValueOrExpression;
+        var empresa = headerTxt[1].ValueOrExpression;
+        var ruc = headerTxt[2].ValueOrExpression;
         if (headerTxt != null)
-            for (int i = 0; i < headerTxt.Count(); i++)
-            {
-                strHeader += GetHeaderTextBox(headerTxt[i].Name, null, headerTxt[i].ValueOrExpression);
-            }
+            //for (int i = 0; i < headerTxt.Count(); i++)
+            //{          
+            //    strHeader += GetHeaderTextBox(headerTxt[i].Name, left, null, headerTxt[i].ValueOrExpression);
+            //}
+             strHeader += TituloReporte(titulo[0].ToString(), empresa[0].ToString(), ruc[0].ToString());
+
         strHeader += @" </ReportItems> 
                           <Style /> 
                         </PageHeader>";
         return strHeader;
     }
-    private static string TituloReporte()
+    
+    private static string TituloReporte(string titulo, string empresa, string ruc)
     {
-        string strHeader = "1";
+        string TitleHeader = @"<Textbox Name='txtReportTitle'> 
+          <CanGrow>true</CanGrow> 
+          <KeepTogether>true</KeepTogether> 
+          <Paragraphs> 
+            <Paragraph> 
+              <TextRuns><TextRun> 
+                  <Value>"+ empresa +@"</Value> 
+                  <Style> 
+                    <FontSize>10pt</FontSize> 
+                    <FontWeight>Bold</FontWeight>                  
+                  </Style> 
+                </TextRun></TextRuns> 
+              <Style /> 
+            </Paragraph> 
+          </Paragraphs> 
+          <rd:DefaultName>txtReportTitle</rd:DefaultName> 
+          <Top>0.5cm</Top> 
+          <Left>1cm</Left>           
+              <ZIndex>0</ZIndex> 
+              <Style> 
+                <Border> 
+                  <Style>None</Style> 
+                </Border></Style> 
+      </Textbox>";
 
+        string rucempresa = @" <Textbox Name='txtReportTitle1'> 
+                      <CanGrow>true</CanGrow> 
+                      <KeepTogether>true</KeepTogether> 
+                      <Paragraphs> 
+                        <Paragraph> 
+                          <TextRuns><TextRun> 
+                             <Value>"+ ruc +@"</Value> 
+                              <Style> 
+                                <FontSize>10pt</FontSize> 
+                                <FontWeight>Bold</FontWeight>                  
+                              </Style> 
+                            </TextRun></TextRuns> 
+                          <Style /> 
+                        </Paragraph> 
+                      </Paragraphs> 
+                      <rd:DefaultName>txtReportTitle1</rd:DefaultName> 
+                      <Top>0.6cm</Top> 
+                      <Left>1cm</Left> 
+                     
+                      <ZIndex>1</ZIndex> 
+                      <Style> 
+                        <Border> 
+                          <Style>None</Style> 
+                        </Border></Style> 
+             </Textbox>";
+        TitleHeader += rucempresa;
 
-        return strHeader;
+        string tituloReporte = @"
+        <Textbox Name='txtReportTitle2'> 
+          <CanGrow>true</CanGrow> 
+          <KeepTogether>true</KeepTogether> 
+          <Paragraphs> 
+            <Paragraph> 
+              <TextRuns>   
+            <TextRun>   
+            <Value>"+ titulo +@"</Value> 
+                  <Style>                                 
+                    <FontSize>10pt</FontSize> 
+                    <FontWeight>Bold</FontWeight>                  
+                  </Style> 
+                </TextRun>
+             </TextRuns> 
+                 <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+            </Paragraph> 
+          </Paragraphs> 
+          <rd:DefaultName>txtReportTitle2</rd:DefaultName> 
+          <Top>0.9cm</Top> 
+          <Left>2cm</Left> 
+          <Height>0.6cm</Height> 
+          <Width>17.5cm</Width> 
+          <ZIndex>2</ZIndex> 
+          <Style> 
+            <Border> 
+              <Style>None</Style> 
+            </Border></Style> 
+        </Textbox>";
+        TitleHeader += tituloReporte;
+        return TitleHeader;
     }
     private static string GetFooter(ReportBuilder reportBuilder)
     {
@@ -450,11 +537,9 @@ public static class ReportEngine
                               <CellContents> 
                                " + GenerateWhiteTextBox("txtCell_" + table.ReportName + "_" + count + "_", ColumnCell.Name, "", true, padding) + @" 
                               </CellContents> 
-                            </TablixCell>";
-            
+                            </TablixCell>";            
         }
         strTableRow += @"</TablixCells></TablixRow>";
-
         return strTableRow;
     }
     
@@ -469,7 +554,6 @@ public static class ReportEngine
         strTableRow = @"<TablixRow>
                         <Height>0.6cm</Height> 
                             <TablixCells>";
-
 
         for (int i=0; i < columns.Length; i++)
         {
@@ -656,10 +740,11 @@ public static class ReportEngine
         return strTextBox;
     }
 
-    static string GetHeaderTextBox(string textBoxName, ReportDimensions padding = null, params string[] strValues)
+    static string GetHeaderTextBox(string textBoxName, string left = "1cm", ReportDimensions padding = null, params string[] strValues)
     {
         string manao = "17.5cm";
         string strTextBox = "";
+     //   string left = "1cm";
         strTextBox = @" <Textbox Name=""" + textBoxName + @"""> 
           <CanGrow>true</CanGrow> 
           <KeepTogether>true</KeepTogether> 
@@ -668,17 +753,19 @@ public static class ReportEngine
               <TextRuns>";
         string widthxml = "7.93812cm";
         for (int i = 0; i < strValues.Length; i++)
-        {
-            if (i==1)
-            {
-                widthxml = TamanoTitulo.ToString()+"cm";
-            }
-            else
-            {
-                widthxml = "7.93812cm";
-            }
-            strTextBox += GetHeaderTextRun(strValues[i].ToString());
+        {           
+            strTextBox += GetHeaderTextRun(strValues[i].ToString());          
         }
+        //if (poss == 2)
+        //{
+        //    widthxml = TamanoTitulo.ToString() + "cm";
+        //    left = "3cm";
+        //}
+        //else
+        //{
+        //    left = "1cm";
+        //    widthxml = "7.93812cm";
+        //}
 
         strTextBox += @"</TextRuns> 
               <Style /> 
@@ -686,7 +773,7 @@ public static class ReportEngine
           </Paragraphs> 
           <rd:DefaultName>" + textBoxName + @"</rd:DefaultName> 
           <Top>0.5cm</Top> 
-          <Left>1cm</Left> 
+          <Left>"+left+@"</Left> 
           <Height>0.6cm</Height> 
           <Width>"+ widthxml + @"</Width> 
           <ZIndex>2</ZIndex> 
@@ -759,6 +846,7 @@ public static class ReportEngine
 
     static string GetHeaderTextRun(string ValueOrExpression)
     {
+      
         return @"<TextRun> 
                   <Value>" + ValueOrExpression + @"</Value> 
                   <Style> 
@@ -767,6 +855,7 @@ public static class ReportEngine
                   </Style> 
                 </TextRun>";
     }
+
     #endregion
 
     #region Images

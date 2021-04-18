@@ -80,8 +80,6 @@ namespace TestRDL
 
             bool showThisGrouped = rdb_Grouped.Checked;
 
-                     
-
             databind.RDataBind(custTable,cmbFilters.Text, showThisGrouped);
         }
 
